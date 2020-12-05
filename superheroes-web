@@ -1,0 +1,177 @@
+
+<!doctype html>
+<html>
+<head>
+     	<style type="text/css">
+	h1 {
+		color:yellow;
+		text-align:center;
+       }
+	   h2 {
+		color:yellow;
+		text-align:center;
+		}
+	p  {
+	    text-indent:25px;
+		font-size:20px; 
+		font-weight:bold;
+		font-family:algerian;
+		   color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+	   }	
+	body{
+	    background-image: url("logo.jpg");
+		background-size:120%;
+		font-family:castellar;
+		background-repeat:no-repeat;
+		background-position: center top;
+		
+		}
+	table {font-family:broadway;
+	        color:tilt;
+			border-style:groove;
+			border-color:orange;} 
+
+	#firsttable
+	{
+	 
+	position:absolute;
+	left:30px;
+	top:390px;
+	color:blue;
+	
+	}
+	
+	#secondtable
+	{
+	position:absolute;
+	top: 410px;
+	right:0px;
+	color:yellow;
+	
+
+	
+	 
+	
+
+	</style> 	
+
+<title>Superheroes</title>
+</head>
+<body>
+<h1><strong><em><u>SUPERHEROES-we still miss 'em</u></em></strong></h1>
+
+<p><strong>There are stories of many fanstasy superheroes we seen in movies, TVs and we love to think about them and dream. I also fall in that group.if one morning i wake up and can throw webs like spiderman or can break walls by a punch.
+but time passes by and we grow up and laughs on all those childhood memories but still inside us someplaces, today also lives spiderman, superman etc.
+Still we wait for thor 3, black panther movies we feel good to become nostalgic.
+ Though now, we grown ups still feel someplaces find them in our dreams. So i brought you the pleasure of some writings through which if i can offer you,
+a little pleasure of giving you the childhood back or help you all bring all of you under the hood of your favourite superheroes i would be happy to do it for u.</strong>
+<p><h2>We can separate the comic world into two main stream:</h2></p>
+
+<div id="firsttable"><table border= 4px width=50% cellpadding="10">
+<tr><th colspan= "2"><h4><span>SUPERHEROES</span></h4></th></tr>
+<tr>
+<th></h5>Marvel's</h5></th>
+<th></h5>DC</h5></th>
+</tr>
+<tr>
+<td>SpiderMan</td>
+<td>SuperMan</td>
+</tr>
+<tr>
+<td>Iron Man</td>
+<td>Batman</td>
+</tr>
+<tr>
+<td>Captain America</td>
+<td>Wonder Woman</td>
+</tr>
+<tr>
+<td>Hawk Eye</td>
+<td>Flash</td>
+</tr>
+<tr>
+<td>Hulk</td>
+<td>Aquaman</td>
+</tr>
+<tr>
+<td>Thor</td>
+<td>Cyborg</td>
+</tr>
+<tr>
+<td>Vision</td>
+<td>Martian</td>
+</tr>
+<tr>
+<td>Falcon</td>
+<td>Constantine</td>
+</tr>
+<tr>
+<td>Widow</td>
+<td>Katana</td>
+</tr>
+<tr>
+<td>Ant-Man</td>
+<td>Green Lantern</td>
+</table>
+</div>
+<div id="secondtable"><table  border = 4px width=50% cellpadding ="10">
+<tr><th colspan= "2"><h4><span>SUPERVILLANS</span></h4></th></tr>
+<tr>
+<th></h5>Marvel's</h5></th>
+<th></h5>DC</h5></th>
+</tr>
+</tr>
+<tr>
+<td>Thanos</td>
+<td>Stephenwolff</td>
+</tr>
+<tr>
+<td>Loki</td>
+<td>Joker</td>
+</tr>
+<tr>
+<td>ultron</td>
+<td>Darkseid</td>
+</tr>
+<tr>
+<td>Red Skull</td>
+<td>Lex Luthor</td>
+</tr>
+<tr>
+<td>Doctor Octupos</td>
+<td>Harley Quinn(hot)</td>
+</tr>
+<tr>
+<td>Hela</td>
+<td>Poison Ivy</td>
+</tr>
+<tr>
+<td>Dr.Doom</td>
+<td>Deathstroke</td>
+</tr>
+<tr>
+<td>Dormammu</td>
+<td>Brianiac</td>
+</tr>
+<tr>
+<td>Grandmasters</td>
+<td>Riddler</td>
+</tr>
+<tr>
+<td>Taskmaster</td>
+<td>Bane</td>
+</table>
+</div>
+
+<!-- <p>To create a responsive table, add a container element (like div) with <strong>overflow-x:auto</strong> around the table element:</p>
+
+<div style="overflow-x:auto;">-->
+<!-- img:hover {
+    opacity: 1.0;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+	
+	for hover effect
+	less value more transparent-->
+
+</html>
